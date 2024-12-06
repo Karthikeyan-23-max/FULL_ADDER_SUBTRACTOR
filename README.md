@@ -67,6 +67,8 @@ endmodule
 */
 
 **RTL Schematic**
+
+
 ![328845010-b0f47c65-eff7-4558-9633-26af1fd2957f](https://github.com/user-attachments/assets/ab49edfb-ced0-4d40-b90b-c274cc2ae158)
 
 **Output Timing Waveform**
